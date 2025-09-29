@@ -1,0 +1,29 @@
+/* Basic Reset */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, 
+body {
+    height: 100dvh;
+    width: 100dvw;
+}
+
+main {
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    border: 1px solid red;
+}
+
+/* Non-viewport styling */
+
+/* Mobile viewport styling */
+
+/* Desktop viewport styling */
