@@ -42,6 +42,20 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+header {
+    padding: 1rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 24px;
+    margin: 1rem 0rem;
+}
+
+header p {
+    font-size: 16px;
+    margin: 0.5rem 0rem;
+}
 main {
     max-width: 375px;
     height: auto;
@@ -68,6 +82,7 @@ header p {
     height: fit-content;
     border-radius: 5px;
     padding: 1rem 1.75rem 1.5rem;
+    margin: 1rem 0rem;
     box-shadow: -2px 7px 10px var(--shadow-grey);
 }
 
@@ -100,13 +115,6 @@ header p {
 
 #calculator-card {
     border-top: 4px solid var(--blue);
-}
-
-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
 }
 
 /* Non-viewport styling */
