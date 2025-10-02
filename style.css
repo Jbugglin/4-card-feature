@@ -59,7 +59,7 @@ header p {
 main {
     max-width: 375px;
     height: auto;
-    padding: 1rem;
+    padding: 2rem;
 }
 
 header span {
@@ -82,7 +82,7 @@ header p {
     height: fit-content;
     border-radius: 5px;
     padding: 1rem 1.75rem 1.5rem;
-    margin: 1rem 0rem;
+    margin: 2rem 0rem;
     box-shadow: -2px 7px 10px var(--shadow-grey);
 }
 
