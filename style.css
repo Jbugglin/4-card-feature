@@ -82,7 +82,7 @@ header p {
     width: 100%;
     height: fit-content;
     border-radius: 5px;
-    padding: 1rem 1.75rem 1.5rem;
+    padding: 1.5rem 1.25rem 1.5rem 1.5rem;
     margin: 1rem 0rem 1.5rem;
     box-shadow: -2px 7px 10px var(--shadow-grey);
 }
